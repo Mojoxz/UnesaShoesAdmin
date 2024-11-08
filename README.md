@@ -2,7 +2,8 @@
 
 # POSTER
 
-![admin](https://github.com/user-attachments/assets/d70c21d0-afaf-4ea1-a77a-f52ae99d3172)
+![admin benar](https://github.com/user-attachments/assets/b0815514-0893-4d8a-81ff-64f24ce86c9a)
+
 
 # Deskripsi Aplikasi UnesaShoesADMIN
 UnesaShoesAdmin adalah aplikasi administrasi yang dirancang untuk memudahkan pengelolaan produk pada platform UnesaShoes. Aplikasi ini memungkinkan admin untuk melakukan berbagai fungsi penting terkait manajemen produk dengan cepat dan efisien.
